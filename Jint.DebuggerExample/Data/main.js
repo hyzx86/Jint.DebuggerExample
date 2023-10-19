@@ -11,5 +11,6 @@ class Test {
         }
     }
 }
+let test = new Test();
 test.init("Hello world!");
 test.run();
